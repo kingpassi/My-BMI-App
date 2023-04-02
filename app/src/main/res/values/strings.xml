@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBMIapp</string>
+    <string name="edtweightHint">Enter your weight</string>
+    <string name="edtHeightFtHint">Enter your Height(Ft)</string>
+    <string name="edtHeightIncHint">Enter your Height(Inc)</string>
+    <string name="btnCalculatetxt">Calculate BMI</string>
+    <string name="tvResulttxt">Result</string>
+</resources>
